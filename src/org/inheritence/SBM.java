@@ -19,5 +19,6 @@ public class SBM extends SBI{
 		s.amountInSBI();
 		s.amountFromRBI();
 		s.amountToSBM();
+		s.swissBank();
 	}
 }

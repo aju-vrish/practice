@@ -10,4 +10,7 @@ public class RBI {
 
 	}
 	
+	public void swissBank() {
+			System.out.println("Man ot the Match");
+	}
 }
